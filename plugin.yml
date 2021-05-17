@@ -1,0 +1,11 @@
+name: Block_land
+main: Block_land\Block_land
+version: 1.2.0
+api: [3.0.0,2.0.0]
+load: POSTWORLD
+author: slm47888,PoXiao
+
+commands:
+  领地石:
+    usage: /领地石 帮助
+    description: bl not help
